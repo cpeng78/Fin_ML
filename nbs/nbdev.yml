@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "Fin_ML"
+  site-url: "https://cpeng78.github.io/Fin_ML"
+  description: "Fintech_ml"
+  repo-branch: main
+  repo-url: "https://github.com/cpeng78/Fin_ML"
