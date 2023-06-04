@@ -4,5 +4,10 @@
 __all__ = ['abc']
 
 # %% ../nbs/01_plot.ipynb 3
-def abc(a,b):
+def abc(a, # a number
+        b=2, # a number
+        ):
+    
+    "ssdkjfksdjfksdf"
+
     return a+b
