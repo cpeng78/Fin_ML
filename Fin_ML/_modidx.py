@@ -5,5 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://cpeng78.github.io',
                 'git_url': 'https://github.com/cpeng78/Fin_ML',
                 'lib_path': 'Fin_ML'},
-  'syms': { 'Fin_ML.core': {'Fin_ML.core.foo': ('core.html#foo', 'Fin_ML/core.py')},
-            'Fin_ML.data': {'Fin_ML.data.foo': ('core.html#foo', 'Fin_ML/data.py')}}}
+  'syms': {'Fin_ML.data': {'Fin_ML.data.foo': ('data.html#foo', 'Fin_ML/data.py')}}}
