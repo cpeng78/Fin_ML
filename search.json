@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Data Sourcing",
+    "section": "",
+    "text": "source\n\nget_cv_token\n\n get_cv_token (id='', secret='')\n\n\nsource\n\n\nget_cv_data\n\n get_cv_data (id, token, payload)\n\n\nsource\n\n\nget_cv_data_df\n\n get_cv_data_df (id, token, payload)\n\n\n# data"
+  },
+  {
+    "objectID": "plot.html",
+    "href": "plot.html",
+    "title": "Plot data",
+    "section": "",
+    "text": "source\n\nabc\n\n abc (a, b=2)\n\nssdkjfksdjfksdf\n\n\n\n\nType\nDefault\nDetails\n\n\n\n\na\n\n\na number\n\n\nb\nint\n2\na number\n\n\n\n\nabc(1,2)\n\n3"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Fin_ML",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "Fin_ML",
+    "section": "Install",
+    "text": "Install\npip install Fin_ML"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "Fin_ML",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
+  }
+]
